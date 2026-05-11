@@ -11,6 +11,7 @@ const Navbar = () => {
 
   const links = [
     { label: "Features", to: "/features" },
+    { label: "Case Studies", to: "/case-studies" },
     { label: "About", to: "/about" },
     { label: "Contact", to: "/contact" },
     { label: "Pricing", to: "/pricing" },
